@@ -12,8 +12,8 @@ __pycache__/
 # --- Ambientes virtuais ---
 venv/
 .venv/
-knowledgegraphpython312/
 knowledge_graph/knowledge_graph/
+knowledgegraphpython312/
 
 # --- Logs e configs ---
 *.log
